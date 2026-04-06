@@ -9,8 +9,4 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
-    disk:
-      name: music
-      mountPath: /app/background_music
-      sizeGB: 1
- 
+  
