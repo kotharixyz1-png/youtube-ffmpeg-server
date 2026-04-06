@@ -1,1 +1,15 @@
 # youtube-ffmpeg-server
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.png
+/tmp/
+venv/
+.venv/
