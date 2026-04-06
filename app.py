@@ -13,7 +13,7 @@ app = Flask(__name__)
 TEMP_DIR = Path("/tmp/videos")
 TEMP_DIR.mkdir(exist_ok=True)
 
-BACKGROUND_MUSIC_PATH = Path("/app/background_music")
+BACKGROUND_MUSIC_PATH = Path("/tmp/background_music")
 BACKGROUND_MUSIC_PATH.mkdir(exist_ok=True)
 
 
